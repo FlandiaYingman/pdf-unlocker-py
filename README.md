@@ -5,6 +5,8 @@ Unlocks PDFs with edit-protection.
 Note that this project should only be used for unlocking user's own PDF documents the password of which is forgotten.
 The author and software have no liability for any consequences.
 
+**WARNING: BACKUP YOUR DOCUMENTS BEFORE UNLOCKING IT!!!**
+
 ## Usage (Executable)
 
 Download the latest executable release
