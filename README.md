@@ -7,6 +7,9 @@ The author and software have no liability for any consequences.
 
 ## Usage (Executable)
 
+Download the latest executable release
+on [the release page](https://github.com/FlandiaYingman/pdf-unlocker-py/releases).
+
 Drag & drop any files or folders onto the executable (`pdf-unlocker.exe`). The files or the files in the folder
 (recursively) will then be unlocked.
 
