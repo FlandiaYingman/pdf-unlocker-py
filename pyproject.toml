@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pdf-unlocker-py"
+version = "1.0.0"
+description = ""
+license = "MIT"
+authors = ["Flandia Yingman <flandia_yingm@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11"
+pikepdf = "^7.0.0"
+
+[tool.poetry.group.dev.dependencies]
+auto-py-to-exe = "^2.29.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
